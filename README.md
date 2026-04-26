@@ -43,21 +43,13 @@ always:      hunting for the next tool that changes the game
   <strong>Voice &amp; Telephony Integrations</strong>
 </p>
 <p align="center">
-  <a href="https://elevenlabs.io" target="_blank" rel="noreferrer">
-    <img src="https://11labs-nonprd-15f22c1d.s3.eu-west-3.amazonaws.com/a2ea339b-8b5e-41bb-b706-24eda8a4c9e3/elevenlabs-symbol.svg" alt="elevenlabs" width="48" height="48" />
-  </a>
+  <img src="https://11labs-nonprd-15f22c1d.s3.eu-west-3.amazonaws.com/a2ea339b-8b5e-41bb-b706-24eda8a4c9e3/elevenlabs-symbol.svg" alt="elevenlabs" width="48" height="48" />
   &nbsp;&nbsp;
-  <a href="https://twilio.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.brandfetch.io/idT7wVo_zL/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668515584517" alt="twilio" width="48" height="48" />
-  </a>
+  <img src="https://cdn.brandfetch.io/idT7wVo_zL/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668515584517" alt="twilio" width="48" height="48" />
   &nbsp;&nbsp;
-  <a href="https://aircall.io" target="_blank" rel="noreferrer">
-    <img src="https://cdn.brandfetch.io/id0fw51IaJ/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668074989129" alt="aircall" width="48" height="48" />
-  </a>
+  <img src="https://cdn.brandfetch.io/id0fw51IaJ/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668074989129" alt="aircall" width="48" height="48" />
   &nbsp;&nbsp;
-  <a href="https://pipedrive.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.brandfetch.io/idZG_U1qqs/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1667601678560" alt="pipedrive" width="48" height="48" />
-  </a>
+  <img src="https://cdn.brandfetch.io/idZG_U1qqs/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1667601678560" alt="pipedrive" width="48" height="48" />
 </p>
 
 ---
