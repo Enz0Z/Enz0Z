@@ -15,6 +15,12 @@ mindset:     "if it can be automated, it should be"
 always:      hunting for the next tool that changes the game
 ```
 
+<p align="center">
+  <a href="https://github.com/Enz0Z">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Enz0Z&theme=tokyonight&hide_border=true&background=0D1117&stroke=2563EB&ring=2563EB&fire=60A5FA&currStreakLabel=2563EB" alt="streak" />
+  </a>
+</p>
+
 ---
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Stack
@@ -50,35 +56,4 @@ always:      hunting for the next tool that changes the game
   <img src="https://cdn.brandfetch.io/id0fw51IaJ/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668074989129" alt="aircall" width="48" height="48" />
   &nbsp;&nbsp;
   <img src="https://cdn.brandfetch.io/idZG_U1qqs/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1667601678560" alt="pipedrive" width="48" height="48" />
-</p>
-
----
-
-### <img src="https://media.giphy.com/media/W3VbDvGLfxqhEpDlGM/giphy.gif" width="28"> GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/Enz0Z">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Enz0Z&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=2563EB&icon_color=60A5FA&text_color=C9D1D9&bg_color=0D1117" alt="stats" />
-  </a>
-  <a href="https://github.com/Enz0Z">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enz0Z&layout=compact&hide_border=true&langs_count=8&title_color=2563EB&text_color=C9D1D9&bg_color=0D1117" alt="top langs" />
-  </a>
-  <a href="https://github.com/Enz0Z">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enz0Z&bg_color=0D1117&color=C9D1D9&line=2563EB&point=60A5FA&area=true&hide_border=true" alt="activity graph" />
-  </a>
-  <a href="https://github.com/Enz0Z">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Enz0Z&theme=tokyonight&hide_border=true&background=0D1117&stroke=2563EB&ring=2563EB&fire=60A5FA&currStreakLabel=2563EB" alt="streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Enz0Z">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Enz0Z&theme=nord_dark" alt="repos per language" />
-  </a>
-  <a href="https://github.com/Enz0Z">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Enz0Z&theme=nord_dark" alt="most commit language" />
-  </a>
-  <a href="https://github.com/Enz0Z">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Enz0Z&theme=nord_dark" alt="profile details" />
-  </a>
 </p>
